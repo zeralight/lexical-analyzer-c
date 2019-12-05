@@ -1,0 +1,26 @@
+// This is a sample more bad tokens
+
+// Valid identifiers
+anything123ANDbig
+kuye892jgdh
+
+// Invalid tokens
+%
+^
+&
+~
+
+// Bad variable name
+123bad
+_underscore
+
+// Bad integer
+01
+
+
+// Bad char.  Should be lexed as ERROR up to the close ' or a newline
+'ao'
+
+// Bad str, should be lexed as ERROR up to the close " or a newline
+"aoeuaoeu 
+"

@@ -1,0 +1,20 @@
+#include "stldib.h"
+
+int main() {
+
+    if (1) {
+        return 1;
+    } else {
+        if (1) {
+            return 1;
+        } else {
+            return 2;
+        }
+    } else {
+        if (1) {
+
+        } else {
+            return 2;
+        }
+    }
+}

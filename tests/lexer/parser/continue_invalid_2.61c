@@ -1,0 +1,6 @@
+int f()
+{
+    if (1) {
+        continue;
+    }
+}

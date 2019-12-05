@@ -1,0 +1,13 @@
+/ * +  +    
+    +
+-- ++
+
+;;;,       -> 
+        . = == 
+        ! !=
+        > < <= >= 
+        & && | || ^ ~
+() ( ) {} { }  
+#include    "filename"
+"as\nr'\""  ""      
+int char struct const bool if else true false return for continue break null 

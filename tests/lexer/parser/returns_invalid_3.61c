@@ -1,0 +1,14 @@
+#include "stldib.h"
+
+int main() {
+    int x;
+    if (1) {
+        int y;
+        return 0;
+        int t;
+    } else {
+        if (1) {
+            return 2;
+        }
+    }
+}

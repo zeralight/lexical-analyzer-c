@@ -1,0 +1,128 @@
+int start()
+{
+    if (1) {
+        for (;;) {
+            for (;;) {
+                if (1) {
+                    break;
+                    break;
+                    continue;
+                } else {
+                    if (2) {
+                        continue;
+                    } else {
+                        break;
+                    }
+                }
+            }
+            break;
+            continue;
+        }
+    }
+    
+    return 0;
+}
+
+int f()
+{
+    int a;
+    char b = 'A';
+
+    return 0;
+}
+
+
+int g()
+{
+    return 5;
+
+    int i;
+    for (1; 1; 1)
+    {
+        i = 0;
+    }
+}
+
+
+char h(int argc, char ** argv)
+{
+    if (1) {
+        return 2;
+    } else {
+        return 0;
+    }
+}
+
+char i(int a, int b, int c) {
+    if (1) {
+        int x = 2;
+        if (2) {
+            int y = 3;
+            if (3) {
+                printf("ok");
+                int x = 2;
+
+                return "abc";
+
+                z = 0;
+            } else {
+                printf("hello");
+                return "efg";
+                printf("world");
+            }
+        } else {
+            int a;
+            return 0;
+        }
+    } else {
+        return 1;
+        int a;
+    }
+}
+
+int j()
+{
+    if (1) {
+        if (2) {
+            return 2;
+            printf("hello");
+        } else {
+            if (3) {
+                int a;
+                if (4) {
+                    int b;
+                    return 1;
+                    int d;
+                } else {
+                    int c;
+                    return 2;
+                    int e;
+                }
+                int r;
+            } else {
+                return 1;
+                int t;
+            }
+        }
+    } else {
+       int r;
+       return 1;
+    }
+}
+
+int k()
+{
+    if (1) {
+        return 1;
+    }
+    return 2;
+}
+
+int l()
+{
+    if (1) {
+    } else {
+        return 1;
+    }
+    return 3;
+}

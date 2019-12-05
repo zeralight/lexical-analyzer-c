@@ -1,0 +1,10 @@
+#include "stdio.h"
+
+int y = 2;
+int main() {
+    int x = 2;
+
+    // if (1) x = 1;
+
+    return ;
+}

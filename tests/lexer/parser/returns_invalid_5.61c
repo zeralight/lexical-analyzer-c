@@ -1,0 +1,7 @@
+#include "stldib.h"
+
+int main() {
+    for (;;) {
+        return 1;
+    }
+}

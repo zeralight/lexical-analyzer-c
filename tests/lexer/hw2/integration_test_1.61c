@@ -1,0 +1,8 @@
+#include "stdio.h"
+#include "ctype.h"
+
+int main(int argc, char** argv) {
+    for(char c='A'; c <= ord('A')+25; c++)
+        printf("%c\n", c);
+    return 0;
+}
